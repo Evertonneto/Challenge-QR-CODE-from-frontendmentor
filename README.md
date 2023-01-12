@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Evertonneto/Challenge-QR-CODE-from-frontendmentor)
-- Live Site URL: [Add live site URL here](https://evertonneto.github.io/Challenge-QR-CODE-from-frontendmentor/)
+- Solution URL: [QR-CODE-REPO](https://github.com/Evertonneto/Challenge-QR-CODE-from-frontendmentor)
+- Live Site URL: [QR-CODE-LIVE-SITE](https://evertonneto.github.io/Challenge-QR-CODE-from-frontendmentor/)
 
 ## My process
 
